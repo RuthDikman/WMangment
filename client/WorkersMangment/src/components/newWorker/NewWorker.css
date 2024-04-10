@@ -1,0 +1,47 @@
+.swal-container {
+  z-index: 99999 !important;
+}
+
+.swal-popup {
+  z-index: 100000 !important;
+}
+
+.swal-header,
+.swal-title,
+.swal-content,
+.swal-actions {
+  z-index: 100001 !important;
+}
+
+.swal-confirm,
+.swal-cancel {
+  z-index: 100002 !important;
+}
+
+.sheet {
+  margin-left: 2vw;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  height: 100%;
+  width: 40vw;
+  max-width: 40vw;
+  overflow: auto;
+}
+@media screen and (max-width: 1300px) {
+  .sheet {
+    margin-left: 20vw;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .sheet {
+    margin-left: 22vw;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .sheet {
+    margin-left: 25vw;
+  }
+}

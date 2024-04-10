@@ -1,0 +1,24 @@
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Desktop\WorkersManagment\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+C:\Users\user\Documents\רות\תכנות\ו' סמינר\פרויקט פרקטיקום\server\WorkersManagment\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll

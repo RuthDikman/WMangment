@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEvz394wx4V0AYiv+5l1Zh8nG/Ac0GrwZbtlGgS7AWSmqeFx0FkMosSNCQAEaYykWJVoImsFbIThW9BxAogvxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Documents\\רות\\תכנות\\ו' סמינר\\פרויקט פרקטיקום\\server\\WorkersManagment\\Solid.Core\\Solid.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
