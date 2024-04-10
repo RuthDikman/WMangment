@@ -40,10 +40,6 @@ To get started with WM | Workers Management, follow these steps:
 - Navigate to the client directory.
 - Install the necessary dependencies.
 
-4. **Running the SQL Script:**
-- Locate the script file named `WMnagmnet.sql`.
-- Run the script file in Microsoft SQL Server Management Studio (SSMS) by opening the file and executing its contents.
-
   ```
   npm install
   ```
@@ -51,26 +47,24 @@ To get started with WM | Workers Management, follow these steps:
   ```
   npm run dev
   ```
+4. **Running the SQL Script:**
+- Locate the script file named `WMnagmnet.sql`.
+- Run the script file in Microsoft SQL Server Management Studio (SSMS) by opening the file and executing its contents.
 
-4. Once both the server-side API and client-side application are running, open your web browser and navigate to the specified URL to access WM | Workers Management.
+5. Once both the server-side API and client-side application are running, open your web browser and navigate to the specified URL to access WM | Workers Management.
 
-5. **Administrator Credentials:** Log in with the following administrator credentials to access the full functionality of the application:
+6. **Administrator Credentials:** Log in with the following administrator credentials to access the full functionality of the application:
    - **Username:** Dan Lang
    - **Password:** 123
 
 These steps will ensure that both the server-side and client-side of the application are up and running, allowing you to access and utilize WM | Workers Management efficiently.
 
 ## Screenshots
-![image](https://github.com/RuthDikman/WMangment/assets/148651671/864a307d-b95a-441d-b1bb-85f993a8d619)
-![image](https://github.com/RuthDikman/WMangment/assets/148651671/fa76e91c-8fd6-40d0-ab70-b69bf58b388b)
-![image](https://github.com/RuthDikman/WMangment/assets/148651671/2bbb7a14-5d46-493b-a732-ad490c6789c2)
-![image](https://github.com/RuthDikman/WMangment/assets/148651671/76d62b7d-4745-4cae-82b6-503371cecda1)
-![image](https://github.com/RuthDikman/WMangment/assets/148651671/d06e3e81-17ba-41a8-9362-7ae1ac9d22dc)
-
-
-
-
-
+![image](https://github.com/RuthDikman/WMangment/assets/148651671/09986c3c-e759-4a45-b87f-e0eec05ceb85)
+![image](https://github.com/RuthDikman/WMangment/assets/148651671/980ca634-5f94-435f-a9a2-07adb366f232)
+![image](https://github.com/RuthDikman/WMangment/assets/148651671/e4dbf7bf-4327-43d7-a748-91a80c75e544)
+![image](https://github.com/RuthDikman/WMangment/assets/148651671/557527fd-c7ad-409b-84b0-4090ec69eaee)
+![image](https://github.com/RuthDikman/WMangment/assets/148651671/ef8e7b1e-5581-4019-9d8e-28abaa502901)
 
 ## Author
 
