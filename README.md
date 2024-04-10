@@ -64,7 +64,8 @@ These steps will ensure that both the server-side and client-side of the applica
 ![image](https://github.com/RuthDikman/WMangment/assets/148651671/980ca634-5f94-435f-a9a2-07adb366f232)
 ![image](https://github.com/RuthDikman/WMangment/assets/148651671/e4dbf7bf-4327-43d7-a748-91a80c75e544)
 ![image](https://github.com/RuthDikman/WMangment/assets/148651671/557527fd-c7ad-409b-84b0-4090ec69eaee)
-![image](https://github.com/RuthDikman/WMangment/assets/148651671/ef8e7b1e-5581-4019-9d8e-28abaa502901)
+![image](https://github.com/RuthDikman/WMangment/assets/148651671/140b511d-cf0f-4569-aa37-2ad2ff50be0f)
+
 
 ## Author
 
