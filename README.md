@@ -4,7 +4,7 @@ WM | Workers Management is an employee management interface designed to streamli
 
 ## Features
 
-- **Employee Listing:** Display a table of all employees in the company, including their name, ID card, date of joining the company, list of positions, administrative status for each position, and date of entry into each position.
+- **Employee Listing:** Display a table of all employees in the company, including their name, ID, date of joining the company, list of positions, administrative status for each position, and date of entry into each position.
 - **Excel Export:** Download the employee table to an Excel file for easy sharing and analysis.
 - **Search Filtering:** Filter the employee table by search to quickly find specific employees.
 - **Administrator Access:** Authorization using JWT grants administrators additional privileges.
@@ -23,7 +23,7 @@ WM | Workers Management is an employee management interface designed to streamli
 - **Server Side:**
   - .NET C#
 - **Authentication:** JWT (JSON Web Tokens)
-- **Database:** [WMangment]
+- **Database:** Microsoft SQL Server Management Studio (SSMS)
 - **HTTP Functions:** Used for retrieving and storing data from/to the database.
 
 ## Getting Started
@@ -69,6 +69,6 @@ These steps will ensure that both the server-side and client-side of the applica
 
 ## Author
 
-- **Name:** [Ruth Dikman]
-- **Email:** [rut9811@gmail.com]
-- **Phone:** [053-3179811]
+- **Name:** Ruth Dikman
+- **Email:** rut9811@gmail.com
+- **Phone:** 053-3179811
