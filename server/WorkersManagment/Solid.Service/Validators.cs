@@ -23,7 +23,7 @@ namespace Solid.Service
             {
                 return false;
             }
-            if (customer.Roles.Any(role => role.DateStartRole >= customer.DateOfStartingWork))
+            if (customer.Roles.Any(role => role.DateStartRole <= customer.DateOfStartingWork))
             {
                 return false;
             }
